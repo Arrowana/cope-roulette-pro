@@ -1,0 +1,13 @@
+[package]
+name = "cope-roulette-pro"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solana-client = "1.7.11"
+solana-sdk = "1.7.11"
+spl-token = { version = "3.1.1", features = ["no-entrypoint"] }
+spl-associated-token-account = { version = "1.0.2", features = ["no-entrypoint"] }
+rand = "0.8.4"
