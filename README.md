@@ -2,7 +2,7 @@
 
 This is a pro roulette player, which always win at the COPE roulette.
 
-It's efficiency has to been demonstrated through 207 plays, 207 wins.
+It's efficiency has been demonstrated through 207 plays, 207 wins.
 
 https://twitter.com/PierreArowana/status/1441552108734476290
 
